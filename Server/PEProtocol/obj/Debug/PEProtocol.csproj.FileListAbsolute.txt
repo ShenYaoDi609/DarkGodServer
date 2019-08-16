@@ -1,0 +1,13 @@
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\bin\Debug\PEProtocol.dll
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\bin\Debug\PEProtocol.pdb
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\bin\Debug\PESocket.dll
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\bin\Debug\PESocket.pdb
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\libs\PEProtocol.dll
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\libs\PEProtocol.pdb
+D:\Unity Project WorkSpace\DarkGod\Assets\Scripts\Net\PEProtocol.dll
+D:\Unity Project WorkSpace\DarkGod\Assets\Scripts\Net\PEProtocol.pdb
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csprojAssemblyReference.cache

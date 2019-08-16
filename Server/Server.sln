@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{F85B1A64-FFDB-4E20-9CB9-F7D15D6A6870}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEProtocol", "PEProtocol\PEProtocol.csproj", "{FB48961D-9C84-4E39-A93A-232E8BE4E793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F85B1A64-FFDB-4E20-9CB9-F7D15D6A6870}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85B1A64-FFDB-4E20-9CB9-F7D15D6A6870}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85B1A64-FFDB-4E20-9CB9-F7D15D6A6870}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85B1A64-FFDB-4E20-9CB9-F7D15D6A6870}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB48961D-9C84-4E39-A93A-232E8BE4E793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB48961D-9C84-4E39-A93A-232E8BE4E793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB48961D-9C84-4E39-A93A-232E8BE4E793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB48961D-9C84-4E39-A93A-232E8BE4E793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {392B2494-62E1-43C3-9228-2872C754F5CD}
+	EndGlobalSection
+EndGlobal

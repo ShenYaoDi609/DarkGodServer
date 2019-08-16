@@ -1,0 +1,9 @@
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\obj\Debug\Protocal.csproj.CoreCompileInputs.cache
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\bin\Debug\Protocal.dll.config
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\bin\Debug\Protocal.dll
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\bin\Debug\Protocal.pdb
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\bin\Debug\PESocket.dll
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\bin\Debug\PESocket.pdb
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\obj\Debug\Protocal.csproj.CopyComplete
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\obj\Debug\Protocal.dll
+D:\Unity Project WorkSpace\PESocket\PESocketExample\Protocal\obj\Debug\Protocal.pdb

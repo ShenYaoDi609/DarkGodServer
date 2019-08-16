@@ -1,0 +1,9 @@
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\bin\Debug\SqlTest.exe.config
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\bin\Debug\SqlTest.exe
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\bin\Debug\SqlTest.pdb
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\bin\Debug\MySql.Data.dll
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\obj\Debug\SqlTest.csprojAssemblyReference.cache
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.CoreCompileInputs.cache
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\obj\Debug\SqlTest.csproj.CopyComplete
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\obj\Debug\SqlTest.exe
+D:\Unity Project WorkSpace\SynvTuts\DarkGod\SqlTest\SqlTest\obj\Debug\SqlTest.pdb
